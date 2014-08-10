@@ -1,1 +1,5 @@
 # Created by .gitignore support plugin (hsz.mobi)
+*.iml
+.idea/
+webitor/bower_components/
+webitor/node_modules/
